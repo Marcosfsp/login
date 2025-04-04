@@ -26,7 +26,7 @@ class Botao extends StatelessWidget {
             },
             child: Padding(
               padding: const EdgeInsets.all(20.0),
-              child: Text("$nome", style: TextStyle(fontSize: 20.0)),
+              child: Text(nome, style: TextStyle(fontSize: 20.0)),
             ),
           ),
         ],
