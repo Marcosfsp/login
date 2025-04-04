@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter/material.dart';
-import 'Sucesso.dart';
-import 'Botao.dart';
 import 'Tela.dart';
 
 void main() {
